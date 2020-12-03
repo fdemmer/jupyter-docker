@@ -1,0 +1,3 @@
+
+c.NotebookApp.allow_password_change=False
+c.NotebookApp.password = u'argon2:$argon2id$v=19$m=10240,t=10,p=8$jdIFttxBdO83V3kEI1D/5A$9JxzfZkGLFx2lIIUgSZJJg'
